@@ -12,7 +12,7 @@ content('text')
 blockLine()
 ```
 
-Using these commands give the following output:
+Using these commands gives the following output:
 
 ```
 +------------------------------------------------------------------------------+
