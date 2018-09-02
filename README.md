@@ -12,7 +12,7 @@ content('text')
 blockLine()
 ```
 
-Using these commands give the following output:
+Using these commands gives the following output:
 
 ```
 +------------------------------------------------------------------------------+
@@ -47,4 +47,3 @@ All commands are followed by the text you wish to prettify.
 
 Things to be done:
 - Improve parser to be more friendly to use
-
